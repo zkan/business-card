@@ -1,0 +1,16 @@
+{
+  "name": "zkan",
+  "version": "1.0.0",
+  "description": "My npm card",
+  "main": "index.js",
+  "bin": {
+    "zkan": "./bin/card.js"
+  },
+  "repository": "git@github.com:zkan/business-card.git",
+  "author": "Kan Ouivirach <kan@prontomarketing.com>",
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^2.1.0",
+    "chalk": "^2.4.1"
+  }
+}
