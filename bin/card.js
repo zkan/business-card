@@ -16,7 +16,7 @@ const options = {
 const data = {
   name: chalk.white('Kan Ouivirach /'),
   handle: chalk.cyan('zkan'),
-  work: chalk.white('Lead Software Architect at Pronto Tools'),
+  work: chalk.white('Data Craftsman, ODDS'),
   twitter: chalk.cyan('https://twitter.com/zkancs'),
   github: chalk.cyan('https://github.com/zkan'),
   linkedin: chalk.cyan('https://linkedin.com/in/kanouivirach'),
